@@ -1,0 +1,1 @@
+ghcr.io/usememos/memos:latest
